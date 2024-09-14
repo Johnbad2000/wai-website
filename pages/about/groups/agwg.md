@@ -1,4 +1,4 @@
----
+--- 
 title: Accessibility Guidelines Working Group (AGWG)
 nav_title: '<span>AGWG: Accessibility Guidelines <abbr title="Working Group">WG</abbr></span>'
 lang: en
